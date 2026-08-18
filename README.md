@@ -94,7 +94,7 @@ A driver-focused fleet application with modules including **Leave, Reconciliatio
 
 ![Top Languages](./profile/top-langs.svg)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Md-Raju-Mia&theme=dark&hide_border=false)
+![GitHub Streak](./profile/streak.svg)
 
 ---
 
