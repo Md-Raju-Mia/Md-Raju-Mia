@@ -89,12 +89,18 @@ A driver-focused fleet application with modules including **Leave, Reconciliatio
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 ![Raju's GitHub Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
 
-![GitHub Streak](./profile/streak.svg)
+![GitHub Streak](./profile/streak.svg) -->
+
+<div align="center">
+  <img src="./profile/stats.svg" width="32%" />
+  <img src="./profile/top-langs.svg" width="32%" />
+  <img src="./profile/streak.svg" width="32%" />
+</div>
 
 ---
 
