@@ -12,6 +12,23 @@ Hi, I’m Md. Raju Mia<br><br>I’m a passionate Android Developer with hands-on
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-Raju-Mia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Raju-Mia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Md-Raju-Mia/Md-Raju-Mia/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Md-Raju-Mia/Md-Raju-Mia/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Md-Raju-Mia/Md-Raju-Mia/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Md-Raju-Mia&icon=0&color=0)](https://visitcount.itsvg.in)
 
