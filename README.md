@@ -1,16 +1,102 @@
-# 💫 About Me:
-Hi, I’m Md. Raju Mia<br><br>I’m a passionate Android Developer with hands-on experience building scalable, real-world mobile applications using Java, Kotlin, and Flutter.<br>I enjoy turning complex business requirements into clean, maintainable, and high-performance apps.<br><br>Currently working as an Associate Software Engineer at Nexkraft Limited, where I develop production-level <br>Android apps following MVP and MVVM architecture.
+# 💫 About Me
 
+Hi, I’m **Md. Raju Mia** 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_raju_muhammad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raju-muhammad-se/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raju.iit3@gmail.com) 
+I’m a passionate **Android Developer** with hands-on experience building scalable, real-world mobile applications using **Java, Kotlin, and Flutter**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Md-Raju-Mia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Md-Raju-Mia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Raju-Mia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy turning complex business requirements into clean, maintainable, and high-performance applications.
+
+Currently working as an **Associate Software Engineer at Nexkraft Limited**, where I develop and maintain production-level Android applications using **MVP and MVVM architecture**.
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_raju_muhammad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-muhammad-se/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raju.iit3@gmail.com)
+
+---
+
+## 🧑‍💻 What I Do
+
+- 📱 Build production-ready Android applications
+- 🏗️ Develop applications using **MVP & MVVM architecture**
+- 🔄 Integrate **REST APIs** and real-time data synchronization
+- 💾 Implement offline data storage using **Room Database**
+- 🔥 Work with **Firebase & FCM** for authentication, notifications, and cloud services
+- 🗺️ Integrate **Google Maps APIs** and location-based features
+- 🔧 Maintain and improve existing production applications
+- 🐛 Debug issues, optimize performance, and reduce application crashes
+- 🌿 Follow Git-based development workflows with GitHub and Bitbucket
+
+---
+
+## 💻 Tech Stack
+
+### 📱 Android Development
+
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🏗️ Architecture & Libraries
+
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-6C63FF?style=for-the-badge)
+![MVP](https://img.shields.io/badge/MVP-Architecture-6C63FF?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-Database-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-DI-%23FF6F00?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### ☁️ Backend & Services
+
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-%234285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🛠️ Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 BRAC Fleet App
+**Android • Java • MVP • REST API • Google Maps**
+
+A fleet management application developed for real-world vehicle operations, including features such as auto allocation and fleet-related workflows.
+
+### 🔧 BRAC Mechanics App
+**Android • Kotlin • MVVM • Koin • Firebase**
+
+A production-level application designed to support mechanics with operational workflows and real-time notifications.
+
+### 🚗 BRAC Fleet Driver App
+**Android • Java • MVP • Room • Offline Sync**
+
+A driver-focused fleet application with modules including **Leave, Reconciliation, Attendance Record**, and offline trip data management.
+
+---
+
+## 📊 GitHub Stats
+
+![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Raju-Mia&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Md-Raju-Mia&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Raju-Mia&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 ## 👾 Pac-Man Contribution Graph
 
@@ -30,6 +116,11 @@ Hi, I’m Md. Raju Mia<br><br>I’m a passionate Android Developer with hands-on
 </picture>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Md-Raju-Mia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Let's Connect
+
+I’m always interested in discussing **Android development, software engineering, and interesting technical projects**.
+
+- 📧 Email: **raju.iit3@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/raju-muhammad-se](https://www.linkedin.com/in/raju-muhammad-se/)
+- 📸 Instagram: [@_raju_muhammad](https://www.instagram.com/_raju_muhammad/)
