@@ -90,11 +90,11 @@ A driver-focused fleet application with modules including **Leave, Reconciliatio
 
 ## 📊 GitHub Stats
 
-![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Raju-Mia&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![Raju's GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Md-Raju-Mia&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Raju-Mia&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
