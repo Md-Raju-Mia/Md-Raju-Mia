@@ -71,15 +71,30 @@ Currently working as an **Associate Software Engineer at Nexkraft Limited**, whe
 
 ## 🚀 Featured Projects
 
+### 🔧 BRAC Mechanics App
+**Android • Kotlin • MVVM • Koin • Firebase**
+
+A production-level application designed to support mechanics with operational workflows and real-time notifications.
+
+### 🌦️ Weather App
+**Android • Flutter • MVVM • Provider • Firebase**
+
+A feature-rich, modern Weather application built with Flutter that provides real-time weather updates based on the user's current GPS location or a manual city search. It features dynamic UI changes, high-quality Lottie animations, and a 5-day forecast.
+
 ### 📱 BRAC Fleet App
 **Android • Java • MVP • REST API • Google Maps**
 
 A fleet management application developed for real-world vehicle operations, including features such as auto allocation and fleet-related workflows.
 
-### 🔧 BRAC Mechanics App
-**Android • Kotlin • MVVM • Koin • Firebase**
+### 💰 Expense Tracker App
+**Android • Flutter • MVVM • Provider**
 
-A production-level application designed to support mechanics with operational workflows and real-time notifications.
+A practical and impressive Expense Tracker application built with Flutter. This app helps users manage their financial health by tracking income and expenses with real-time data visualization and local persistence.
+
+### 🚗 BRAC Fleet Driver App
+**Android • Java • MVP • Room • Offline Sync**
+
+A driver-focused fleet application with modules including **Leave, Reconciliation, Attendance Record**, and offline trip data management.
 
 ### 🚗 BRAC Fleet Driver App
 **Android • Java • MVP • Room • Offline Sync**
