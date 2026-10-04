@@ -96,11 +96,6 @@ A practical and impressive Expense Tracker application built with Flutter. This 
 
 A driver-focused fleet application with modules including **Leave, Reconciliation, Attendance Record**, and offline trip data management.
 
-### 🚗 BRAC Fleet Driver App
-**Android • Java • MVP • Room • Offline Sync**
-
-A driver-focused fleet application with modules including **Leave, Reconciliation, Attendance Record**, and offline trip data management.
-
 ---
 
 ## 📊 GitHub Stats
